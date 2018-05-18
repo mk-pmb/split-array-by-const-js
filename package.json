@@ -1,0 +1,29 @@
+{ "name": "split-array-by-const",
+  "version": "1.0.0",
+  "description": "Split an array into multiple ones, using a custom value as the separator.",
+  "keywords": ["array", "split"],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/split-array-by-const-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/split-array-by-const-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/split-array-by-const-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "split.js",
+  "scripts": { "test": "nodejs usage.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}

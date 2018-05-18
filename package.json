@@ -1,5 +1,5 @@
 { "name": "split-array-by-const",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Split an array into multiple ones, using a custom value as the separator.",
   "keywords": ["array", "split"],
 

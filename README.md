@@ -17,7 +17,7 @@ This module expoers one function:
 ### splitArrayByConst(a, c)
 
 Returns an array of (potentially empty) arrays, each with
-items found in `a` between occurrences of `c`.
+items found in `a` before, between, and after each occurrences of `c`.
 
 
 

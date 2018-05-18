@@ -1,6 +1,7 @@
 ﻿/*jslint indent: 2, maxlen: 80, continue: false, unparam: false, node: true */
 /* -*- tab-width: 2 -*- */
 'use strict';
+
 function splitArrayByConst(a, c) {
   if (!a) { return false; }
   var b = [], r = [b], i, n = a.length, x;
@@ -16,4 +17,5 @@ function splitArrayByConst(a, c) {
   }
   return r;
 }
+
 module.exports = splitArrayByConst;
